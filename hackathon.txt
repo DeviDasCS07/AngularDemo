@@ -1,0 +1,35 @@
+MilkBasket
+Dunzo
+Agora -- agora github and slack channel
+Locus
+Datawevaee
+mech mocha
+unacademy
+
+DigitalOCean -- Bootstrap Paradox
+
+Blume
+
+
+
+Swagger UI
+Azure CI/ CD - (Cake in Build scripts)
+generate angular service from swagger -> NSwagStudio
+
+
+Made with Microsoft Sway - Presentation
+Share Link for UML Diagrams
+https://sway.office.com/xuaXhpSHEzEKE1Aj?ref=Link
+
+
+
+Copy From Postman - Use RestSharp nuget
+
+
+Prezi -- Presentation
+Animaker - Animation
+
+
+Bulk Update through Zip  
+
+Netlifly - Web hosting of Client
